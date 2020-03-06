@@ -8,7 +8,7 @@ setup(
   author = 'Loong Wissawakorn',                   # Type in your name
   author_email = 'loong.wissawakorn2@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/UncleEngineer/loongpom',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/UncleEngineer/loongpom/archive/v_001.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/UncleEngineer/loongpom/archive/0.0.1.zip',    # I explain this later on
   keywords = ['LOONGPOM', 'PRAWIT', 'THAILAND', 'UncleEngineer'],   # Keywords that define your package best
   install_requires=[
           'uncleengineer',
