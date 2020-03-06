@@ -21,7 +21,6 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Show Loong Pom Name Jaaa',   # Give a short description about your library
   long_description='plese read in: https://github.com/UncleEngineer/loongpom',
-  long_description_content_type='text/x-rst',
   author = 'Loong Wissawakorn',                   # Type in your name
   author_email = 'loong.wissawakorn2@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/UncleEngineer/loongpom',   # Provide either the link to your github or to your website
