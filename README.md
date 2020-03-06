@@ -39,7 +39,7 @@ print(myloong.thainame)
 | ------ | ------ |
 | ลุงมีวิชาอะไรบ้าง |http://uncle-engineer.com/ |
 | อ่านบทความใน Medium  | https://medium.com/@UncleEngineer |
-| เพจ "ลุงวิศวกร สอนคำนวณ"  | https://www.facebook.com/UncleEngineer] |
+| เพจ "ลุงวิศวกร สอนคำนวณ"  | https://www.facebook.com/UncleEngineer |
 | ------ | ------ |
 | สร้างไฟล์ README  | https://dillinger.io/ |
 
